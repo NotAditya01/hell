@@ -18,4 +18,4 @@
 **5.** Use any type of unauthorized automation within Discord.
 
 
-##Note that breaking any of the following will lead to blacklisting and banning from our services.
+# Note that breaking any of the following will lead to blacklisting and banning from our services.
