@@ -1,9 +1,9 @@
-# Sledge-ToS
+# port-ToS
 
 **By using sledge you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](https://github.com/NotAditya01/sledge)
+2. Read and agreed to our [privacy policy](https://github.com/NotAditya01/port)
 
 # Prohibited Activities
 
